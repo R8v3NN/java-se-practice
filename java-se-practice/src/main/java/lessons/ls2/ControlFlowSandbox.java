@@ -7,7 +7,8 @@ public class ControlFlowSandbox{
         System.out.println("What is your name? ");
         String name = scanner.next();
         String greeting = "";
-        //Test
+        int numberOfGreets = scanner.nextInt();
+        //Konstrukcja IF
         /*
         if(Objects.equals(name, "Maja")){
             greeting = "Czesc, "+name;
@@ -18,7 +19,11 @@ public class ControlFlowSandbox{
         else {
             greetng = "Hello, "+name;
         }
+
+        System.out.println(greeting);
         */
+
+        //Konstrukcja Switch
         switch (name.trim()){
             case "Chen" :
                 greeting = "Nihao, "+name;
@@ -29,6 +34,17 @@ public class ControlFlowSandbox{
             default :
                 greeting = "Hello, "+name;
         }
-        System.out.println(greeting);
+        /*
+        //Konstrukcja FOR
+        for(int i = 0; i < numberOfGreets;i++){
+            System.out.println(greeting);
+        }
+        */
+        int i = 0;
+        do {
+            System.out.println(greeting);
+            i++;
+        }
+        while(i < numberOfGreets);
     }
 }
