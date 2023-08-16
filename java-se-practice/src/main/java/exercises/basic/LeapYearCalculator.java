@@ -1,4 +1,4 @@
-package exercises.basic.ex5;
+package exercises.basic;
 
 public class LeapYearCalculator {
     public static void main(String[] args){

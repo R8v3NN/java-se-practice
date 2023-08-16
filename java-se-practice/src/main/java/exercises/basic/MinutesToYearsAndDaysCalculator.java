@@ -1,4 +1,4 @@
-package exercises.basic.ex10;
+package exercises.basic;
 
 public class MinutesToYearsAndDaysCalculator {
     public static void main(String[] args){

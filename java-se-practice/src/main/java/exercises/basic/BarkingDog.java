@@ -1,4 +1,4 @@
-package exercises.basic.ex4;
+package exercises.basic;
 
 public class BarkingDog {
     public static void main(String[] args){

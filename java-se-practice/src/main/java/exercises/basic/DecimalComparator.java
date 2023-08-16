@@ -1,4 +1,4 @@
-package exercises.basic.ex6;
+package exercises.basic;
 
 public class DecimalComparator {
     public static void main(String[] args){
