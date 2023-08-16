@@ -1,4 +1,4 @@
-package exercises.basic.ex8;
+package exercises.basic;
 
 public class TeenNumberChecker {
     public static void main(String[] args){

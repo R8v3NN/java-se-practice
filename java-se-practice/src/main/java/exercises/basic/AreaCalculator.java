@@ -1,4 +1,4 @@
-package exercises.basic.ex9;
+package exercises.basic;
 
 public class AreaCalculator {
     public static void main(String[] args){

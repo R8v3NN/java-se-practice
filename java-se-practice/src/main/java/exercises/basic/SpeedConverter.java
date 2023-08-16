@@ -1,4 +1,4 @@
-package exercises.basic.ex2;
+package exercises.basic;
 
 public class SpeedConverter {
     public static void main(String[] args){
