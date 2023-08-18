@@ -1,4 +1,4 @@
-package ind;
+package exercises.intermediate;
 
 public class NumberPalindrome {
 	public static void main(String[] args) {
