@@ -1,5 +1,4 @@
-package ind;
-
+package exercises.intermediate;
 public class EvenDigiSum {
 	public static void main(String[] args) {
 		System.out.println(getEvenDigitSum(123456789)); //20

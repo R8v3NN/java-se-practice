@@ -1,5 +1,4 @@
-package ind;
-
+package exercises.intermediate;
 public class NumberInWord {
 	public static void main(String[] args) {
 		printNumberlnWord(0);
